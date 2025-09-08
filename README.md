@@ -90,3 +90,8 @@ It covers all the essential topics that a data analyst should master in Power BI
 ---
 
 🔥 Mastering this roadmap will prepare you for **Power BI Data Analyst roles** in the industry.  
+
+
+## ✨ Author
+Made with ❤️ by **Shoaib Khan**  
+📍 Founder @ learn_corporates | Data Science & Analytics Enthusiast
